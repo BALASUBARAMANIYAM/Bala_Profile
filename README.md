@@ -1,24 +1,57 @@
-# 👋 Hi there, I'm Balasubaramaniyam
+# 👋 Hi there, I'm Balasubaramaniyam TS
 
-I'm a Computer Science Engineering student at **MIT Campus, Anna University**.  
-Passionate about **software development**, **full-stack web apps**, and **machine learning**.
+I'm a Computer Science Engineering student at **Madras Institute of Technology, Anna University**, with a strong academic record (CGPA: 9.22). I enjoy solving real-world problems through technology and building applications that make life simpler and smarter.
 
-- 💻 Currently working with **React**, **Django**, **Python**, and **MySQL**
-- 📈 Building tools like a stock market predictor & Excel-to-graph converter
-- 🌱 Always learning and exploring new technologies
-- 🤝 Open to learning, collaboration, and internships
+---
+
+## 🛠️ Skills
+
+- **Languages:** C, C++, Java, Python  
+- **Web Development:** HTML, CSS, JavaScript, PHP, ReactJS  
+- **Database:** MySQL  
+- **Core CS:** Data Structures, Operating Systems, Computer Networks  
+- **Soft Skills:** Problem Solving, Time Management, Team Work
+
+---
+
+## 💼 Projects
+
+### 📈 Stock Market Trend Analysis  
+LSTM-based ML model to predict stock trends using historical data.  
+**Tech Stack:** Python, TensorFlow, Keras, Pandas, Matplotlib, ReactJS
+
+### 🛒 Online Grocery Store  
+Dynamic full-stack web application for ordering groceries with cart and backend integration.  
+**Tech Stack:** HTML, CSS, PHP, MySQL
+
+### 🗜️ Text File Compression Tool  
+File compression/decompression using Huffman coding to improve storage efficiency.  
+**Language:** C++
+
+---
+
+## 📜 Certifications
+
+- [SQL (HackerRank)](https://www.hackerrank.com/certificates/95467ecd2f70)
+- Prompt Engineering (Naan Mudhalvan)
+
+---
+
+## 🏆 Achievements
+
+- [CodeKaze 2024](https://ninjasfiles.s3.amazonaws.com/event_certi_image406433c8ebe92b9cfba73ae1ee2911646e53d8.jpg): Global rank **1866** out of thousands of participants
+
+---
+
+## 📫 Let's Connect
+
+- ✉️ [Email](mailto:tsbalasubaramaniyam@gmail.com)
+- 📱 [+91 9444564468](tel:+919444564468)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bala17/)
+- 💻 [GitHub](https://github.com/BALASUBARAMANIYAM)
+- 🧠 [LeetCode](https://leetcode.com/u/Balasubaramaniyam/)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
-
-### 📫 How to reach me
-- 📧 Email: your-email@example.com *(replace with your email)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace with your link)*
-- 🔗 [Portfolio](https://your-portfolio-link.com) *(optional)*
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balasubaramaniyam&show_icons=true&theme=default)
